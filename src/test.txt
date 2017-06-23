@@ -1,0 +1,32 @@
+Thread1 started.
+Thread5 started.
+Thread6 started.
+Thread4 started.
+Thread3 started.
+Thread2 started.
+Thread7 started.
+Thread10 started.
+Thread8 started.
+Thread9 started.
+Thread3 stopped.
+Thread3 execution time was (millis): 13307
+Thread4 stopped.
+Thread4 execution time was (millis): 13432
+Thread7 stopped.
+Thread7 execution time was (millis): 13519
+Thread8 stopped.
+Thread8 execution time was (millis): 13529
+Thread2 stopped.
+Thread2 execution time was (millis): 14012
+Thread1 stopped.
+Thread1 execution time was (millis): 14036
+Thread5 stopped.
+Thread5 execution time was (millis): 14083
+Thread10 stopped.
+Thread10 execution time was (millis): 14127
+Thread9 stopped.
+Thread9 execution time was (millis): 14184
+Thread6 stopped.
+Thread6 execution time was (millis): 14235
+Total execution time for current run (millis): 14267
+Result : 2.718281828459045235359357431733
